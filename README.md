@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/devernie_" target="blank"><img src="https://img.shields.io/twitter/follow/devernie_?logo=twitter&style=for-the-badge" alt="devernie_" /></a> </p>
 
-- 🌱 I’m currently learning **blockchain, web3, cloud computing.**
+- 🌱 I’m currently learning **Blockchain, Web3, Cloud computing.**
 
-- 💬 Ask me about **frontend development, react, web accessibility, web optimization(client side), JavaScript.**
+- 💬 Ask me about **Frontend Development, React, Web Accessibility, Web Optimization (client side), JavaScript.**
 
 - 📫 How to reach me **eobumma@gmail.com**
 
