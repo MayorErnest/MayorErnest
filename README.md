@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **eobumma@gmail.com**
 
-- 📄 Know about my experiences https://app.enhancv.com/share/8c822a22/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic
-
 - ⚡ Fun fact **I am a Sith Lord.**
 
 <h3 align="left">Connect with me:</h3>
